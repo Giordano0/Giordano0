@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Fourdins
+- 👋 Hi, I’m @Giordano
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python and C
+- 🌱 I’m currently learning python
 - 📫 How to reach me: @fourdins_ on twitter or at dolenzgiordano@gmail.com
 
 <!---
