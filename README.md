@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @Giordano, I'm currently pursuing a bachelor's degree in Applied Informatics and Data Analytics
+- 👋 Hi, I’m @Giordano0, I'm currently pursuing a bachelor's degree in Applied Informatics and Data Analytics
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - 📫 How to reach me: @fourdins_ on twitter or at dolenzgiordano@gmail.com
