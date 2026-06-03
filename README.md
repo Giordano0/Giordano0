@@ -1,4 +1,4 @@
-Take a look at my [portfolio website]! (https://giordano0.github.io/Portfolio/)
+Take a look at my [Portfolio](https://giordano0.github.io/Portfolio/)!
 
 # 💫 About Me:
 - 👋 Hi, I’m @Giordano0, I'm currently pursuing a bachelor's degree in Applied Informatics and Data Analytics
